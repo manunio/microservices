@@ -1,3 +1,6 @@
 [submodule "product-service"]
 	path = product-service
 	url = https://github.com/manunio/product-service
+[submodule "image-service"]
+	path = image-service
+	url = https://github.com/manunio/image-service.git
